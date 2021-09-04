@@ -29,7 +29,8 @@ That's quite simple:
 
 So, here's Cipriani meta-analysis of antidepressant effifacy: 
 [this place is reserved for the reference number] https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(17)32802-7.pdf [👫💊🕸]
-[n] Cipriani, A....Comparative efficacy and acceptability of 21 antidepressant... The Lancet 391, 1357–1366.. doi:10.1016/s0140-6736(17)32802-7 [👫💊🕸]
+
+[n] [Cipriani, A....Comparative efficacy and acceptability of 21 antidepressant... The Lancet 391, 1357–1366..](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(17)32802-7.pdf) doi:10.1016/s0140-6736(17)32802-7 [👫💊🕸]
 
 ## I want to contribute / your emojis are wrong
 
